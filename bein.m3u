@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="cdnvbos",premium01
+#EXTINF:-1 group-title="cdnvbos",premium1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium01/index.m3u8
-#EXTINF:-1 group-title="cdnvbos",premium02
+https://webudit.cdnbos.lol/lb/premium1/index.m3u8
+#EXTINF:-1 group-title="cdnvbos",premium2
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium02/index.m3u8
-#EXTINF:-1 group-title="cdnvbos",premium03
+https://webudit.cdnbos.lol/lb/premium2/index.m3u8
+#EXTINF:-1 group-title="cdnvbos",premium3
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium03/index.m3u8
-#EXTINF:-1 group-title="cdnvbos",premium04
+https://webudit.cdnbos.lol/lb/premium3/index.m3u8
+#EXTINF:-1 group-title="cdnvbos",premium4
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium04/index.m3u8
-#EXTINF:-1 group-title="cdnvbos",premium05
+https://webudit.cdnbos.lol/lb/premium4/index.m3u8
+#EXTINF:-1 group-title="cdnvbos",premium5
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium05/index.m3u8
-#EXTINF:-1 group-title="cdnvbos",premium06
+https://webudit.cdnbos.lol/lb/premium5/index.m3u8
+#EXTINF:-1 group-title="cdnvbos",premium6
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium06/index.m3u8
-#EXTINF:-1 group-title="cdnvbos",premium07
+https://webudit.cdnbos.lol/lb/premium6/index.m3u8
+#EXTINF:-1 group-title="cdnvbos",premium7
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium07/index.m3u8
-#EXTINF:-1 group-title="cdnvbos",premium08
+https://webudit.cdnbos.lol/lb/premium7/index.m3u8
+#EXTINF:-1 group-title="cdnvbos",premium8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium08/index.m3u8
+https://webudit.cdnbos.lol/lb/premium8/index.m3u8
 
 
-#EXTINF:-1 group-title="cdnvbos",premium09
+#EXTINF:-1 group-title="cdnvbos",premium9
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://webudit.cdnbos.lol/lb/premium09/index.m3u8
+https://webudit.cdnbos.lol/lb/premium9/index.m3u8
 
 
 #EXTINF:-1 group-title="cdnvbos",premium10
